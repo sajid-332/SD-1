@@ -23,22 +23,22 @@ Java Arrays: Storing multiple values in an array and iterating over it.
 
  These are Lab Report 1 files ::
  
-Arrays.java
-Break_Continue.java
-For_Loop.java
-If_Else.java
-JavaBooleans.java
-JavaComments.java
-JavaDataTypes.java
-JavaGetStarted.java
-JavaIntro.java
-JavaMath.java
-JavaOperators.java
-JavaOutput.java
-JavaStrings.java
-JavaSwitch.java
-JavaSyntax.java
-JavaTypeCasting.java
-JavaUserInput.java
-JavaVariables.java
-While_Loop.java
+Arrays.java ,
+Break_Continue.java ,
+For_Loop.java ,
+If_Else.java ,
+JavaBooleans.java ,
+JavaComments.java ,
+JavaDataTypes.java ,
+JavaGetStarted.java ,
+JavaIntro.java ,
+JavaMath.java ,
+JavaOperators.java ,
+JavaOutput.java ,
+JavaStrings.java ,
+JavaSwitch.java ,
+JavaSyntax.java ,
+JavaTypeCasting.java ,
+JavaUserInput.java ,
+JavaVariables.java ,
+While_Loop.java .
